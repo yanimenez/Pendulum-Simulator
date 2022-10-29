@@ -23,7 +23,6 @@ namespace Sim
         //--------------------------------------------------------------------
         public Simulator(int nn)
         {
-            Console.WriteLine("simulator constructor");
             n = nn;
             x = new double[n];    // x1 = theta, x2 = omega
             xi = new double[n];
