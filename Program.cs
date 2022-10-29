@@ -13,10 +13,10 @@ class Program
         //PendSim pend = new PendSim(); //Creates PendSim obj & puts into pend 
         pend.Length = 1.4;
         pend.Angle = 0.5;
-        pend.Angledot = 1;
+        pend.Angledot = 0.2;
         
         double t = 0.0;     // Start time 
-        double dt = 0.02;   // Time step
+        double dt = 0.01;   // Time step
         double tEnd = 50.0;  // Ending time
 
         // Simulation loop
