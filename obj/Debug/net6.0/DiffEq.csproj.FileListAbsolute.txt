@@ -1,0 +1,15 @@
+C:\Users\Ryan Jimenez\desktop\school\mee381\inclass\diffeqns\diffeqwclass\diffeq\bin\Debug\net6.0\DiffEq.exe
+C:\Users\Ryan Jimenez\desktop\school\mee381\inclass\diffeqns\diffeqwclass\diffeq\bin\Debug\net6.0\DiffEq.deps.json
+C:\Users\Ryan Jimenez\desktop\school\mee381\inclass\diffeqns\diffeqwclass\diffeq\bin\Debug\net6.0\DiffEq.runtimeconfig.json
+C:\Users\Ryan Jimenez\desktop\school\mee381\inclass\diffeqns\diffeqwclass\diffeq\bin\Debug\net6.0\DiffEq.dll
+C:\Users\Ryan Jimenez\desktop\school\mee381\inclass\diffeqns\diffeqwclass\diffeq\bin\Debug\net6.0\DiffEq.pdb
+C:\Users\Ryan Jimenez\desktop\school\mee381\inclass\diffeqns\diffeqwclass\diffeq\obj\Debug\net6.0\DiffEq.csproj.AssemblyReference.cache
+C:\Users\Ryan Jimenez\desktop\school\mee381\inclass\diffeqns\diffeqwclass\diffeq\obj\Debug\net6.0\DiffEq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan Jimenez\desktop\school\mee381\inclass\diffeqns\diffeqwclass\diffeq\obj\Debug\net6.0\DiffEq.AssemblyInfoInputs.cache
+C:\Users\Ryan Jimenez\desktop\school\mee381\inclass\diffeqns\diffeqwclass\diffeq\obj\Debug\net6.0\DiffEq.AssemblyInfo.cs
+C:\Users\Ryan Jimenez\desktop\school\mee381\inclass\diffeqns\diffeqwclass\diffeq\obj\Debug\net6.0\DiffEq.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Jimenez\desktop\school\mee381\inclass\diffeqns\diffeqwclass\diffeq\obj\Debug\net6.0\DiffEq.dll
+C:\Users\Ryan Jimenez\desktop\school\mee381\inclass\diffeqns\diffeqwclass\diffeq\obj\Debug\net6.0\refint\DiffEq.dll
+C:\Users\Ryan Jimenez\desktop\school\mee381\inclass\diffeqns\diffeqwclass\diffeq\obj\Debug\net6.0\DiffEq.pdb
+C:\Users\Ryan Jimenez\desktop\school\mee381\inclass\diffeqns\diffeqwclass\diffeq\obj\Debug\net6.0\DiffEq.genruntimeconfig.cache
+C:\Users\Ryan Jimenez\desktop\school\mee381\inclass\diffeqns\diffeqwclass\diffeq\obj\Debug\net6.0\ref\DiffEq.dll
