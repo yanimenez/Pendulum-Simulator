@@ -17,7 +17,7 @@ namespace Sim
         //--------------------------------------------------------------------
         public PendSimV2() : base(2) //Sends the base class 2
         {
-            Console.WriteLine("PendSimV2 constructor");
+            //Console.WriteLine("PendSimV2 constructor");
             L = 1.0;    // Set default value for length 
 
             // Setting Initial Conditions
